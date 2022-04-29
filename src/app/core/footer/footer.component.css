@@ -1,0 +1,29 @@
+footer {
+    background: rgb(133, 49, 49);
+    margin-top: 1em;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    max-width: 1520px;
+}
+
+footer div {
+    display: flex;
+}
+
+footer p {
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    text-align: center;
+}
+
+.footer a {
+    text-decoration: none;
+    -webkit-transition: linear 0.09s;
+    transition: linear 0.09s;
+}
+
+footer span {
+    font-size: 1.5em;
+}
